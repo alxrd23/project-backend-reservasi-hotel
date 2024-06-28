@@ -1,4 +1,18 @@
   php version 5.6 recommended
+nama kelompok : Angga Rizki Rmadhan (535220231)
+							  Gabriel Ringo (535220032)
+pembagian tugas:
+A.Angga rizki ramadhan:
+ programer ,
+ diagram ,
+ planing,
+ pembuatan jurnal dan laporan,
+
+b. gabriel ringo :
+  pembuatan ppt
+  membuat jira
+  menyiapkan client
+  
 
 
   CodeIgniter adalah Kerangka Pengembangan Aplikasi - sebuah toolkit - untuk orang-orang yang membangun situs web menggunakan PHP. Tujuannya adalah untuk memungkinkan Anda mengembangkan proyek jauh lebih cepat daripada jika Anda menulis kode dari awal, dengan menyediakan sekumpulan pustaka yang kaya untuk tugas-tugas yang umum dibutuhkan, serta antarmuka yang sederhana dan struktur logis untuk mengakses pustaka-pustaka ini. CodeIgniter memungkinkan Anda untuk fokus secara kreatif pada proyek Anda dengan meminimalkan jumlah kode yang diperlukan untuk suatu tugas tertentu.
